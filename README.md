@@ -1,8 +1,11 @@
 MEDICARE PART D 2023 PROGRAM: Prescriber Tier Segmentation and Cost Analysis
 
+
 PROJECT OVERVIEW
 
 This project analyzed Medicare Part D 2023 claims data aggregated by prescriber  npi to uncover high-cost outliers, high-cost prescribing patterns and assign a cost-tier system for cost management strategies.
+
+
 
 BUSINESS QUESTIONS & OBJECTIVES
 
@@ -15,6 +18,7 @@ BUSINESS QUESTIONS & OBJECTIVES
 •	What is the brand/generic prescribing rate of specialties in the top 5% of the cost per claim metric?
 
 
+
 TOOLS & SKILLS USED
 
 SQL – database set up, data cleaning, table creation, segmentation, KPI queries
@@ -23,8 +27,10 @@ Power BI – Power Query, dashboard, design, DAX Measures
 
 Skills -data modelling, visualization
 
+
 DASHBOARD PREVIEW
  ![Cost per claim dashboard](images/dashboard.png)
+
 
 
 KEY INSIGHTS
@@ -42,10 +48,11 @@ KEY INSIGHTS
 
 
 
-
 KEY RECOMMENDATION
 
 Set up modalities to reduce the claims spending on Tiers 3 & 4 precribers by 50% and see a $70m savings on claims payment.
+
+
 
 PRESCRIBED ACTIONS TO ACHIEVE THE KEY RECOMMENDATION
 
@@ -55,6 +62,8 @@ PRESCRIBED ACTIONS TO ACHIEVE THE KEY RECOMMENDATION
 
 •	Shift Tiers 3 & 4 to Tiers 1 & 2: Focus on shifting the prescribing pattern of tier 3 and 4 prescribers to that of prescribers in the Tier 1 and 2 categories
 
+
+
 REFERENCES
 
 •	The CMS Medicare Part D Prescribers 2023 – by Provider can be found publicly at https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/medicare-part-d-prescribers-by-provider/data 
@@ -62,6 +71,7 @@ REFERENCES
 •	The Power BI dashboard can be found at https://app.powerbi.com/groups/me/dashboards/4269d628-0fbf-4f02-944e-d01237268b26?experience=power-bi
 
 •	The Power BI report can be found at https://app.powerbi.com/groups/me/reports/c35d9d7f-a391-4dbf-969d-1683c2738344/97bd24a7defe58ea664c?experience=power-bi
+
 
 
 
