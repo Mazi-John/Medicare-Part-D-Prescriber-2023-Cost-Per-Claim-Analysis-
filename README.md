@@ -68,6 +68,15 @@ PRESCRIBED ACTIONS TO ACHIEVE THE KEY RECOMMENDATION
 •	Shift Tiers 3 & 4 to Tiers 1 & 2: Focus on shifting the prescribing pattern of tier 3 and 4 prescribers to that of prescribers in the Tier 1 and 2 categories
 
 
+## PROJECT WORKFLOW
+1. **Data download** – Medicare Part D 2023 dataset from CMS website.  
+2. **Data storage & exploration** – Loaded CSV into local database (PostgreSQL/MySQL) via Beekeeper + SQL shell.  
+3. **Data cleaning** – Wrote SQL scripts to filter duplicates, standardize column names, and join supplementary tables.  
+4. **Analysis queries** – Developed SQL queries for KPIs (claims, spending, generic utilization, cost per claim).  
+5. **Visualization** – Imported cleaned data into Power BI, built multi-page report with KPIs, trends, prescriber segmentation, and risk scoring.  
+
+
+
 
 REFERENCES
 
@@ -76,6 +85,7 @@ REFERENCES
 •	The Power BI dashboard can be found at https://app.powerbi.com/groups/me/dashboards/4269d628-0fbf-4f02-944e-d01237268b26?experience=power-bi
 
 •	The Power BI report can be found at https://app.powerbi.com/groups/me/reports/c35d9d7f-a391-4dbf-969d-1683c2738344/97bd24a7defe58ea664c?experience=power-bi
+
 
 
 
