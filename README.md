@@ -67,6 +67,9 @@ PRESCRIBED ACTIONS TO ACHIEVE THE KEY RECOMMENDATION
 
 •	Shift Tiers 3 & 4 to Tiers 1 & 2: Focus on shifting the prescribing pattern of tier 3 and 4 prescribers to that of prescribers in the Tier 1 and 2 categories
 
+PROJECT WORKFLOW
+1. Data download - Medicare Part D 2023 dataset from CMS website.
+
 
 ## PROJECT WORKFLOW
 1. **Data download** – Medicare Part D 2023 dataset from CMS website.  
@@ -85,6 +88,7 @@ REFERENCES
 •	The Power BI dashboard can be found at https://app.powerbi.com/groups/me/dashboards/4269d628-0fbf-4f02-944e-d01237268b26?experience=power-bi
 
 •	The Power BI report can be found at https://app.powerbi.com/groups/me/reports/c35d9d7f-a391-4dbf-969d-1683c2738344/97bd24a7defe58ea664c?experience=power-bi
+
 
 
 
