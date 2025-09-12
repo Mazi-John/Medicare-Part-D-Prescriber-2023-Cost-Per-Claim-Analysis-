@@ -8,7 +8,7 @@ Database Setup: Using SQL Shell (psql) and Beekeeper (GUI) graphical user interf
 •	Created a table on SQL Shell using the above
 •	Had trouble importing CSV data into the table on SQL Shell due to data type issues
 •	Created a ‘staging table’ (part_d_2023_raw) that defined all columns as TEXT data type so that data import of the CSV file into the already created table on SQL Shell does not fail even on empty or malformed cells
-[Cleaning Script][(sql/01_) 
+[Cleaning Script][(sql/01_load_raw_staging_table.sql) 
 •	Loaded the staging table using:   
 \copy part_d_2023_raw FROM 'C:/Users/John/Downloads/Medicare_Part_D_Prescribers_by_Provider_CSV’ DELIMETER ‘,’ CSV HEADER;
 This showed a record count of 1,380,665, indicating that the data was successfully imported into the table on SQL Shell without errors.
