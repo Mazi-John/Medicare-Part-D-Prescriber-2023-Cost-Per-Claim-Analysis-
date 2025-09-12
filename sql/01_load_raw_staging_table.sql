@@ -1,7 +1,13 @@
 
-/* creates a staging table with an all text data type to prevent errors during data import of 
-CSV file into SQL Shell (psql)*/
+/* 
+File:        01_load_raw_staging_table.sql
+Description: serves as a staging table (part_d_2023_raw)
+             - defines all columns as TEXT data type before importing CSV data into SQL Shell (psql)
+             - prevents data import failure even on empty or malformed cells
+Author:      John Ofoegbu
+*/
 
+--create staging table
 CREATE TABLE part_d_2023_raw (
 PRSCRBR_NPI TEXT,
 Prscrbr_Last_Org_Name  TEXT,
