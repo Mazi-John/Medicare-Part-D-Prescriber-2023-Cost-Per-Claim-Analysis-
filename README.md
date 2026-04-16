@@ -1,6 +1,6 @@
 ## medicare-part-d-2023-prescriber-tier-segmentation-and-cost-analysis
 
-This is a cost-per-claim analysis of the Medicare Part D 2023 claims data that uncovers high-cost outliers, high-cost prescribing patterns and assigns a cost-tier system for cost management strategies.
+This is a cost-per-claim (cpc) analysis of the Medicare Part D 2023 claims data that uncovers high-cost outliers, high-cost prescribing patterns and assigns a cost-tier system for cost management strategies.
 
 ## BUSINESS CONTEXT
 The Centres for Medicare & Medicaid Services (CMS) provides health coverage to more than 100 million people through Medicare, medicaid, the Children's Health Insurance Program, and the Health Insurance marketplace. CMS seeks to strengthen and modernize the Nation's health care system, to provide access to high quality care and improved health at lower costs. The insights from this analysis will be used by Part D program claims managers and finance executives to develop targeted intervention for high-tier claims, optimise capital allocation and cost-saving measures. The following business questions represent the focus of the analysis:
@@ -15,7 +15,7 @@ The Centres for Medicare & Medicaid Services (CMS) provides health coverage to m
 
 
 ## DATA SOURCE AND STRUCTURE
-The CMS Part D 2023 dataset consist of a table of 1,380,665 rows and 85 columns of claims data aggregated by prescriber npi. A detailed data processing documentation is provided in the [data_processing_walkthrough](data_processing_walkthrough.md) document
+The CMS Part D 2023 dataset consists of a table of 1,380,665 rows and 85 columns of claims data aggregated by prescriber npi. A detailed data processing documentation is provided in this [data_processing_walkthrough](data_processing_walkthrough.md) link.
 
 
 
@@ -26,10 +26,12 @@ DASHBOARD PREVIEW
 
 
 
+## EXECUTIVE SUMMARY
+
+Tiers 3 & 4 are the high & very-high prescribers respectively and collectively account for $138m of the $257m in total cpc values representing 53.7% of total cpc. They also make up 6.3% (i.e., 76,000) of the approximately 1.38 million prescribers in the program. the top 5% of prescribers account for 50% of total cpc values. Prescribers in the top 5% recorded an average brand drug prescribing rate of over 90%. The allergy/immunology specialty recorded the highest cpc value of 356,000 in one claim while the hematology Oncology specialty recorded the highest total cpc of all the specialties at $21.5m.
 
 
-
-KEY INSIGHTS
+## INSIGHTS DETAIL
 
 •	Top 5% of prescribers by cpc contributed 50% of the total cpc 
 
