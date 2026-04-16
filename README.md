@@ -33,6 +33,7 @@ Tiers 3 & 4 are the high & very-high prescribers respectively and collectively a
 
 ## INSIGHTS DETAIL
 
+
 STATISTICAL INSIGHTS (what do the numbers tell us about the data?)
 - Fact 1: the median cpc value of $71.43 shows that at least half (690,333) of the prescribers in the program posted a cpc value of $71.43 or less which is less than 50% of the average cpc value of $185.13 therefore, revealing a skew in data to the right.
 - Inference: a vast majority of the prescribers prescribe within the confines of what the standard cpc value should be.
@@ -41,7 +42,9 @@ STATISTICAL INSIGHTS (what do the numbers tell us about the data?)
 - Inference: a disproportionately little number of prescribers submit claims with the highest cpc.
 
 
+
 COST CONCENTRATION INSIGHTS (who is driving high cpc?)
+
 
 - Fact 3: The top 5% of prescribers by cpc contributed 50% of the total cpc
   
@@ -68,15 +71,15 @@ COST CONCENTRATION INSIGHTS (who is driving high cpc?)
 
 ## RECOMMENDATION
 
-Set up modalities to reduce the claims spending on Tiers 3 & 4 precribers by 50% and see a $70m savings on claims payment.
+1. Set up modalities that reduce the cpc values of tiers 3 & 4 precribers by 50% to yield a $69m savings in total cpc.
 
-1. Audit Tier 3 & 4 prescribers to uncover possible fraud, educational purposes and formulary control.
+2. Audit Tier 3 & 4 prescribers to uncover possible fraud, educational purposes and formulary control.
 
-2. Offer formulary adherence support to prescribers with low generic dispensing rate but high cost per claim.
+3. Offer formulary adherence support to prescribers with low generic dispensing rate but high cost per claim.
   
-3. Provide preferred alternatives to brand drugs to improve generic prescribing patterns.
+4. Provide preferred alternatives to brand drugs to improve generic prescribing patterns.
 
-4. institute and implement policy changes that aim to shift the prescribing pattern of tiers 3 and 4 prescribers to that of prescribers in the cost tiers 1 and 2.
+5. institute and implement policy changes that aim to shift the prescribing pattern of tiers 3 and 4 prescribers to that of cost tiers 1 and 2.
 
 
 PROJECT WORKFLOW
