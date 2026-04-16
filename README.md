@@ -1,12 +1,8 @@
-MEDICARE PART D 2023 PROGRAM: Prescriber Tier Segmentation and Cost Analysis
+medicare-part-d-2023-prescriber-tier-segmentation-and-cost-analysis
 
+This is an analysis of the Medicare Part D 2023 claims data aggregated by prescriber npi to uncover high-cost outliers, high-cost prescribing patterns and assign a cost-tier system for cost management strategies.
 
-
-PROJECT OVERVIEW
-
-This project analyzed Medicare Part D 2023 claims data aggregated by prescriber  npi to uncover high-cost outliers, high-cost prescribing patterns and assign a cost-tier system for cost management strategies.
-
-
+## BUSINESS CONTEXT
 
 BUSINESS QUESTIONS & OBJECTIVES
 
@@ -20,13 +16,7 @@ BUSINESS QUESTIONS & OBJECTIVES
 
 
 
-TOOLS & SKILLS USED
 
-SQL – database set up, data cleaning, table creation, segmentation, KPI queries
-
-Power BI – Power Query, dashboard, design, DAX Measures
-
-Skills -data modelling, visualization
 
 
 DASHBOARD PREVIEW
