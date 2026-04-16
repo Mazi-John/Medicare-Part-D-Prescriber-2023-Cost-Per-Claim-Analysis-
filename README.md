@@ -1,6 +1,6 @@
 ## medicare-part-d-2023-prescriber-tier-segmentation-and-cost-analysis
 
-This is an analysis of the Medicare Part D 2023 claims data aggregated by prescriber npi to uncover high-cost outliers, high-cost prescribing patterns and assign a cost-tier system for cost management strategies.
+This is a cost-per-claim analysis of the Medicare Part D 2023 claims data aggregated by prescriber npi to uncover high-cost outliers, high-cost prescribing patterns and assign a cost-tier system for cost management strategies.
 
 ## BUSINESS CONTEXT
 
