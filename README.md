@@ -36,8 +36,9 @@ Tiers 3 & 4 are the high & very-high prescribers respectively and collectively a
 STATISTICAL INSIGHTS
 - Fact 1: the median cpc value of $71.43 shows that at least half (690,333) of the prescribers in the program posted a cpc value of $71.43 or less which is less than 50% of the average cpc value of $185.13 therefore, revealing a skew in data to the right.
 - Inference: a vast majority of the prescribers prescribe within the confines of what the standard cpc value should be.
+  
 - Fact 2: the standard deviation (tells us how far apart each data point is from the average) cpc value of $797.10 is greater than the cpc value of the top 5% of prescribers i.e., $610. this shows that ## most ## cpc values are over 400% higher than the average cpc and within the top 5% of all prescribers
-- Inference: a disproportionately little number of prescribers pull the highest claims 
+- Inference: a disproportionately little number of prescribers pull the highest claims.
 
 •	Top 5% of prescribers by cpc contributed 50% of the total cpc 
 
