@@ -5,13 +5,13 @@ This is a cost-per-claim analysis of the Medicare Part D 2023 claims data aggreg
 ## BUSINESS CONTEXT
 The Centres for Medicare & Medicaid Services (CMS) provides health coverage to more than 100 million people through Medicare, medicaid, the Children's Health Insurance Program, and the Health Insurance marketplace. CMS seeks to strengthen and modernize the Nation's health care system, to provide access to high quality care and improved health at lower costs. The insights from this analysis will be used by Part D program claims managers and finance executives to develop targeted intervention for high-tier claims, optimise capital allocation and cost-saving measures. The following business questions represent the focus of the analysis:
 
-•	What proportion of prescribers are responsible for most of the total cost per claim spending?
+•	what proportion of prescribers are responsible for most of the total cost per claim spending?
 
-•	What prescriber cost segment is responsible for most of the Medicare Part D claims spending?
+•	what prescriber cost segment is responsible for most of the Medicare Part D claims spending?
 
-•	What prescriber specialty in the top 5% of prescribers by cost-per-claim impacts Medicare Part D claims spending the most?
+•	what prescriber specialty in the top 5% of prescribers by cost-per-claim impacts Medicare Part D claims spending the most?
 
-•	What is the brand/generic prescribing rate of specialties in the top 5% of the cost per claim metric?
+•	what is the brand/generic prescribing rate of specialties in the top 5% of the cost per claim metric?
 
 
 
