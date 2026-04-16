@@ -28,7 +28,7 @@ DASHBOARD PREVIEW
 
 ## EXECUTIVE SUMMARY
 
-Tiers 3 & 4 are the high & very-high prescribers respectively and collectively account for $138m of the $257m in total cpc values representing 53.7% of total cpc. They also make up 6.3% (i.e., 76,000) of the approximately 1.38 million prescribers in the program. the top 5% of prescribers account for 50% of total cpc values. Prescribers in the top 5% recorded an average brand drug prescribing rate of over 90%. The allergy/immunology specialty recorded the highest cpc value of 356,000 in one claim while the hematology Oncology specialty recorded the highest total cpc of all the specialties at $21.5m.
+Tiers 3 & 4 are the high & very-high prescribers respectively and collectively account for $138m of the $257m in total cpc values representing 53.7% of total cpc. They also make up 6.3% (i.e., 76,000) of the approximately 1.38 million prescribers in the program. the top 5% of prescribers account for 50% of total cpc values. Prescribers in the top 5% recorded an average brand drug prescribing rate of over 90%. The allergy/immunology specialty recorded the highest cpc value of $356,000 in one claim while the hematology Oncology specialty recorded the highest total cpc of all the specialties at $21.5m.
 
 
 ## INSIGHTS DETAIL
