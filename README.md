@@ -28,10 +28,16 @@ DASHBOARD PREVIEW
 
 ## EXECUTIVE SUMMARY
 
-Tiers 3 & 4 are the high & very-high prescribers respectively and collectively account for $138m of the $257m in total cpc values representing 53.7% of total cpc. They also make up 6.3% (i.e., 76,000) of the approximately 1.38 million prescribers in the program. the top 5% of prescribers account for 50% of total cpc values. Prescribers in the top 5% recorded an average brand drug prescribing rate of over 90%. The allergy/immunology specialty recorded the highest cpc value of $356,000 in one claim while the hematology Oncology specialty recorded the highest total cpc of all the specialties at $21.5m.
+Tiers 3 & 4 are the high & very-high prescribers respectively and collectively account for $138m of the $257m in total cpc values representing 53.7% of total cpc. They also make up 6.3% (i.e., 76,000) of the approximately 1.38 million prescribers in the program. the top 5% of prescribers account for 50% of total cpc values. Prescribers in the top 5% recorded an average brand drug prescribing rate of over 90%. The allergy/immunology specialty recorded the highest cpc value of approximately $356,000 in one claim while the hematology Oncology specialty recorded the highest total cpc of all the specialties at $21.5m.
 
 
 ## INSIGHTS DETAIL
+
+- Fact: The maximum, average, median, 95th percentile(i.e., top 5%) and standard deviation cpc figures are $355,930, $185.13, $71.43, $610 and $797.10
+- Fact: the median cpc value of $71.43 shows that at least half (690,333) of the prescribers in the program posted a cpc value of $71.43 or less which is less than 50% of the average cpc value of $185.13 therefore, revealing a skew in data to the right.
+- Inference: a vast majority of the prescribers prescribe within the confines of what the standard cpc value should be.
+- Fact: the standard deviation (tells us how far apart each data point is from the average) cpc value of $797.10 is greater than the cpc value of the top 5% of prescribers i.e., $610. this shows that ## most ## cpc values are over 400% higher than the average cpc and within the top 5% of all prescribers
+- Inference: a disproportionately little number of prescribers pull the highest claims 
 
 •	Top 5% of prescribers by cpc contributed 50% of the total cpc 
 
