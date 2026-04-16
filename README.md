@@ -15,7 +15,7 @@ The Centres for Medicare & Medicaid Services (CMS) provides health coverage to m
 
 
 ## DATA SOURCE AND STRUCTURE
-The CMS Part D 2023 dataset consist of a table of 1,380,665 rows and 85 columns of claims data aggregated by prescriber npi. A detailed data processing documentation is provided in the [data processing walkthrough](data processing walkthrough.md) document
+The CMS Part D 2023 dataset consist of a table of 1,380,665 rows and 85 columns of claims data aggregated by prescriber npi. A detailed data processing documentation is provided in the [data_processing_walkthrough](data_processing_walkthrough.md) document
 
 
 
