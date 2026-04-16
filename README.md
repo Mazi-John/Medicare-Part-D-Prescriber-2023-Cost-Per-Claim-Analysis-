@@ -38,37 +38,45 @@ STATISTICAL INSIGHTS (what do the numbers tell us about the data?)
 - Inference: a vast majority of the prescribers prescribe within the confines of what the standard cpc value should be.
   
 - Fact 2: the standard deviation (tells us how far apart each data point is from the average) cpc value of $797.10 is greater than the cpc value of the top 5% of prescribers i.e., $610. this shows that ## most ## cpc values are over 400% higher than the average cpc and within the top 5% of all prescribers
-- Inference: a disproportionately little number of prescribers pull the highest claims.
+- Inference: a disproportionately little number of prescribers submit claims with the highest cpc.
 
 
 COST CONCENTRATION INSIGHTS (who is driving high cpc?)
 
-•	Top 5% of prescribers by cpc contributed 50% of the total cpc 
+- Fact 3: The top 5% of prescribers by cpc contributed 50% of the total cpc
+  
+- Inference: most of the CMS claims expenditure is directed towards a few prescribers
 
-•	Tier 3 & 4 prescribers 6.28% contributed 53.7% of the total cpc
+- Fact 4: Tiers 3 & 4 prescribers collectively account for $138m of the $257m in total cpc values representing 53.7% of total cpc
 
-•	Allergy/immunology specialty with the highest cpc value ($356,000) of the top 5% of prescribers recorded a brand drug prescribing rate of 93.91%
+- Inference: measures that reduce the combined cpc of tiers 3 & 4 prescribers by a quarter or half will save the program $34.5m or $69m in total cpc respectively. 
 
-•	An unnamed specialty with the highest average cpc value ($50,000) of the top 5% of prescribers recorded a 100% brand drug prescribing rate
+- Fact 5: Tier 3 & 4 prescribers are a combined 76,000 in number (i.e., 6.3% of the prescribers in the dataset) and account for 53.7% of the total cpc
 
-•	Hematology oncology with the highest total cpc value ($21.5M) of the top 5% of prescribers recorded an 83.23% brand drug prescribing rate
+- Inference: A focus on tiers 3 & 4 prescribers for targeted cost management will likely see dividends in reduced claim expenditure.
+
+- Fact 6: The Allergy/immunology specialty recorded the highest cpc ($356,000) of the top 5% of prescribers and a brand drug prescribing rate of 93.91%.
+
+- Fact 7: An unnamed specialty with the highest average cpc value ($50,000) of the top 5% of prescribers recorded a 100% brand drug prescribing rate.
+
+- Fact 8: Hematology oncology with the highest total cpc value ($21.5M) of the top 5% of prescribers recorded an 83.23% brand drug prescribing rate.
+
+- Inference: a high brand prescribing rate may be a culprit in high cpc figures. However, further investigation is required to ascertain the cause.
 
 
 
 
-KEY RECOMMENDATION
+## RECOMMENDATION
 
 Set up modalities to reduce the claims spending on Tiers 3 & 4 precribers by 50% and see a $70m savings on claims payment.
 
+1. Audit Tier 3 & 4 prescribers to uncover possible fraud, educational purposes and formulary control.
 
+2. Offer formulary adherence support to prescribers with low generic dispensing rate but high cost per claim.
+  
+3. Provide preferred alternatives to brand drugs to improve generic prescribing patterns.
 
-PRESCRIBED ACTIONS TO ACHIEVE THE KEY RECOMMENDATION
-
-•	Audit Tier 3 & 4 prescribers: with unexplainably high cpc values to detect fraud, for educational purposes or formulary control
-
-•	Offer formulary adherence support: to prescribers with low generic dispensing rate but high cost per claim or provide preferred alternatives to brand drugs
-
-•	Shift Tiers 3 & 4 to Tiers 1 & 2: Focus on shifting the prescribing pattern of tier 3 and 4 prescribers to that of prescribers in the Tier 1 and 2 categories
+4. institute and implement policy changes that aim to shift the prescribing pattern of tiers 3 and 4 prescribers to that of prescribers in the cost tiers 1 and 2.
 
 
 PROJECT WORKFLOW
