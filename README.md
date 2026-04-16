@@ -3,8 +3,7 @@
 This is a cost-per-claim analysis of the Medicare Part D 2023 claims data aggregated by prescriber npi to uncover high-cost outliers, high-cost prescribing patterns and assign a cost-tier system for cost management strategies.
 
 ## BUSINESS CONTEXT
-
-BUSINESS QUESTIONS & OBJECTIVES
+The Centres for Medicare & Medicaid Services (CMS) provides health coverage to more than 100 million people through Medicare, medicaid, the Children's Health Insurance Program, and the Health Insurance marketplace. CMS seeks to strengthen and modernize the Nation's health care system, to provide access to high quality care and improved health at lower costs. The insights from this analysis will be used by Part D program claims managers and finance executives to develop targeted intervention for high-tier claims, optimise capital allocation and cost-saving measures. The following business questions represent the focus of the analysis:
 
 •	What proportion of prescribers are responsible for most of the total cost per claim spending?
 
