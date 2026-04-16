@@ -1,6 +1,6 @@
 ## medicare-part-d-2023-prescriber-tier-segmentation-and-cost-analysis
 
-This is a cost-per-claim analysis of the Medicare Part D 2023 claims data aggregated by prescriber npi to uncover high-cost outliers, high-cost prescribing patterns and assign a cost-tier system for cost management strategies.
+This is a cost-per-claim analysis of the Medicare Part D 2023 claims data that uncovers high-cost outliers, high-cost prescribing patterns and assigns a cost-tier system for cost management strategies.
 
 ## BUSINESS CONTEXT
 The Centres for Medicare & Medicaid Services (CMS) provides health coverage to more than 100 million people through Medicare, medicaid, the Children's Health Insurance Program, and the Health Insurance marketplace. CMS seeks to strengthen and modernize the Nation's health care system, to provide access to high quality care and improved health at lower costs. The insights from this analysis will be used by Part D program claims managers and finance executives to develop targeted intervention for high-tier claims, optimise capital allocation and cost-saving measures. The following business questions represent the focus of the analysis:
@@ -14,6 +14,8 @@ The Centres for Medicare & Medicaid Services (CMS) provides health coverage to m
 •	what is the brand/generic prescribing rate of specialties in the top 5% of the cost per claim metric?
 
 
+## DATA SOURCE AND STRUCTURE
+The CMS Part D 2023 dataset consist of a table of 1,380,665 rows and 85 columns of claims data aggregated by prescriber npi. A detailed data processing walkthrough is provided 
 
 
 
