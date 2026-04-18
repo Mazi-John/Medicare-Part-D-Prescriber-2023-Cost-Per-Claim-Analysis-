@@ -1,6 +1,6 @@
 ## medicare-part-d-2023-prescriber-tier-segmentation-and-cost-analysis
 
-This is a cost-per-claim (cpc) analysis of the Medicare Part D 2023 claims data that uncovers high-cost outliers, high-cost prescribing patterns and assigns a cost-tier system for cost management strategies.
+This is a cost-per-claim (cpc) analysis of the Medicare Part D 2023 claims data that aims to uncover high-cost claimants, discover high-cost prescribing patterns and assign a cost-tier system for the development of cost management strategies.
 
 ## BUSINESS CONTEXT
 The Centres for Medicare & Medicaid Services (CMS) provides health coverage to more than 100 million people through Medicare, medicaid, the Children's Health Insurance Program, and the Health Insurance marketplace. CMS seeks to strengthen and modernize the Nation's health care system, to provide access to high quality care and improved health at lower costs. The insights from this analysis will be used by Part D program claims managers and finance executives to develop targeted intervention for high-tier claims, optimise capital allocation and cost-saving measures. The following business questions represent the focus of the analysis:
@@ -35,12 +35,18 @@ Tiers 3 & 4 are the high & very-high prescribers respectively and collectively a
 
 
 STATISTICAL INSIGHTS (what do the numbers tell us about the data?)
-- Fact 1: the median cpc value of $71.43 shows that at least half (690,333) of the prescribers in the program posted a cpc value of $71.43 or less which is less than 50% of the average cpc value of $185.13 therefore, revealing a skew in data to the right.
-- Inference: a vast majority of the prescribers prescribe within the confines of what the standard cpc value should be.
-  
-- Fact 2: the standard deviation (tells us how far apart each data point is from the average) cpc value of $797.10 is greater than the cpc value of the top 5% of prescribers i.e., $610. this shows that ## most ## cpc values are over 400% higher than the average cpc and within the top 5% of all prescribers
-- Inference: a disproportionately little number of prescribers submit claims with the highest cpc.
+- Fact 1: the median cpc value is $71.43,
+- Inference: at least half (684,217) of the prescribers in the program have a cpc value that is less than or equal to $71.43
+- Fact 2: 865,012 prescribers are tier 1, therefore, have cpc values that are less than or equal to 100
+- Inference: a vast majority of prescribers in the program are low ticket prescribers and exert the least impact on claim expenditure.
+- Fact 3: the average cpc value of $185.13 more than double the median cpc or $71.43. In other words, a small number of high cpc values have inflated the average cpc and are pulling it upwards and away from the median cpc of $71.43.
+- Inference: the average cpc is misleading because it is not a true representation of a typical cpc value.
 
+  
+- Fact 4: the standard deviation (tells us how far apart each data point is from the average) cpc value of $797.10 is greater than the cpc value of the top 5% of prescribers ($610). This shows that some cpc values are over 400% higher than the average cpc and are within the range of the top 5% of all prescribers.
+- Inference: the data is not behaving normally, is extremely skewed and likely has high-end ouliers.
+- Fact 5: the outlier cpc value is $333.31 and most cpc values in the data are well outside the outlier cpc.
+- Inference: outlier cpc values are responsible for an elevated average cpc
 
 
 COST CONCENTRATION INSIGHTS (who is driving high cpc?)
