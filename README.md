@@ -35,31 +35,36 @@ Tiers 3 & 4 are the high & very-high prescribers respectively and collectively a
 
 
 STATISTICAL INSIGHTS (what do the numbers tell us about the data?)
-- Fact 1: the median cpc value is $71.43,
+- Fact 1: the median (50% percentile) cpc value is $71.43,
 - Inference: at least half (684,217) of the prescribers in the program have a cpc value that is less than or equal to $71.43
+- USE THE 50% PCTILE IMAGE
 - Fact 2: 865,012 prescribers are tier 1, therefore, have cpc values that are less than or equal to 100
 - Inference: a vast majority of prescribers in the program are low ticket prescribers (<$100 cpc) and exert the least financial impact on overall claims expenditure.
+- USE THE TIER 1 IMAGE
 - Fact 3: the average cpc value of $185.13 is more than double the median cpc of $71.43. In other words, a small number of high cpc values have inflated the average cpc and are pulling it upwards and away from the median.
 - Inference: the average cpc is misleading because it is not a true representation of a typical cpc value.
 
   
 - Fact 4: the standard deviation (tells us how far apart each data point is from the average) cpc value of $797.10 is greater than the cpc value of the top 5% of prescribers ($610). 
-- Inference: the data is not behaving normally, is extremely skewed and likely has high-end ouliers.
+- Inference: the variance between the standard deviation and the average is driven largely by prescribers in the top 5% based on cpc. The data is not behaving normally, is extremely skewed and likely has high-end ouliers. Therefore, the standard deviation in this case will be a poor tool for predictive analysis of future cpc outcomes. 
 - Fact 5: the outlier cpc value is $333.31 and most cpc values in the data are well above the outlier cpc.
 - Inference: outlier cpc values are responsible for an elevated average cpc
+- USE THE OUTLIER VISUAL
 
 
 COST CONCENTRATION INSIGHTS (who is driving high cpc?)
 
 
-- Fact 3: The top 5% of prescribers by cpc contributed 50% of the total cpc
+- Fact 3: The top 5% of prescribers by cpc contributed approximately 50% of the total cpc
   
 - Inference: most of the CMS claims expenditure is directed towards a few prescribers
+- USE THE TOP 5% VISUAL
 
 - Fact 4: Tiers 3 & 4 prescribers collectively account for $138m of the $257m in total cpc values representing 53.7% of total cpc
 
 - Inference: measures that reduce the combined cpc of tiers 3 & 4 prescribers by a quarter or half will save the program $34.5m or $69m in total cpc respectively. 
 
+USE THE 3&4 57.7%
 - Fact 5: Tier 3 & 4 prescribers are a combined 76,000 in number (i.e., 6.3% of the prescribers in the dataset) and account for 53.7% of the total cpc
 
 - Inference: A focus on tiers 3 & 4 prescribers for targeted cost management will likely see dividends in reduced claim expenditure.
