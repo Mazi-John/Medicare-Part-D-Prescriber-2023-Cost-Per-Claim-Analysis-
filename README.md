@@ -66,7 +66,10 @@ STATISTICAL INSIGHTS (what do the numbers tell us about the data?)
 
 - Fact 5: the outlier cpc value is $333.31 and most cpc values in the data are well above the outlier cpc.
 - Inference: outlier cpc values are responsible for an elevated average cpc
-- USE THE OUTLIER VISUAL
+
+![images/cpc_outlier_prescribers.png](images/cpc_outlier_prescribers.png)
+
+
 
 
 COST CONCENTRATION INSIGHTS (who is driving high cpc?)
