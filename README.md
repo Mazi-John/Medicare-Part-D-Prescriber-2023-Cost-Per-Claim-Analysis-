@@ -119,18 +119,6 @@ COST CONCENTRATION INSIGHTS (who is driving high cpc?)
 5. institute and implement policy changes that aim to shift the prescribing pattern of tiers 3 and 4 prescribers to that of cost tiers 1 and 2.
 
 
-PROJECT WORKFLOW
-1. Data download - Medicare Part D 2023 dataset from CMS website.
-2. Data storage & exploration - Loaded CSV into local database (PostgreSQL/MySQL) via Beekeeper + SQL shell.
-3. Data preprocessing - Wrote SQL scripts to create staging table (part_d_2023_raw), created a cleaned table (part_d_2023_cleaned) from the staging table. Normalised part_d_2023_cleaned (1.38 million rows and 85 columns) into seven smaller tables with meaningful entities and relationships.
-4. Analysis queries - Developed SQL queries for KPIs (cost per claim, generic & brand prescribing percentage, etc).
-5. Visualization - Imported cleaned data into Power BI, built a multi-page report with KPIs and prescriber cost tier segmentation.
-
-  
-
-REFERENCES
-
-•	The CMS Medicare Part D Prescribers 2023 – by Provider can be found publicly at https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/medicare-part-d-prescribers-by-provider/data 
 
 •	The Power BI dashboard can be found at https://app.powerbi.com/groups/me/dashboards/4269d628-0fbf-4f02-944e-d01237268b26?experience=power-bi
 
