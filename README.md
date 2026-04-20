@@ -52,7 +52,9 @@ STATISTICAL INSIGHTS (what do the numbers tell us about the data?)
 - Fact 3: the average cpc value of $185.13 is more than double the median cpc of $71.43. In other words, a small number of high cpc values have inflated the average cpc and are pulling it upwards and away from the median.
 - Inference: the average cpc is misleading because it is not a true representation of a typical cpc value.
 
-![images/outlier_median_avg.png](images/outlier_median_avg.png) ![images/avg_cpc.png](images/avg_cpc.png)
+![images/outlier_median_avg.png](images/outlier_median_avg.png)
+
+![images/avg_cpc.png](images/avg_cpc.png)
 
 
 
