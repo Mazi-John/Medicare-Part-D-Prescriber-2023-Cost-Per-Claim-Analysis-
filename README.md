@@ -92,16 +92,12 @@ COST CONCENTRATION INSIGHTS (who is driving high cpc?)
 
 [![images/tiers_3&4_138m.png](images/tiers_3&4_138m.png)](https://app.powerbi.com/groups/me/reports/c35d9d7f-a391-4dbf-969d-1683c2738344/dbd3ddfb0c485b87030b?experience=power-bi)
 
-USE THE 3&4 57.7%
-- Fact 5: Tier 3 & 4 prescribers are a combined 76,000 in number (i.e., 6.3% of the prescribers in the dataset) and account for 53.7% of the total cpc
 
-- Inference: A focus on tiers 3 & 4 prescribers for targeted cost management will likely see dividends in reduced claim expenditure.
+- Fact 9: The Allergy/immunology specialty recorded the highest cpc ($356,000) of the top 5% of prescribers and a brand drug prescribing rate of 93.91%.
 
-- Fact 6: The Allergy/immunology specialty recorded the highest cpc ($356,000) of the top 5% of prescribers and a brand drug prescribing rate of 93.91%.
+- Fact 10: An unnamed specialty with the highest average cpc value ($50,000) of the top 5% of prescribers recorded a 100% brand drug prescribing rate.
 
-- Fact 7: An unnamed specialty with the highest average cpc value ($50,000) of the top 5% of prescribers recorded a 100% brand drug prescribing rate.
-
-- Fact 8: Hematology oncology with the highest total cpc value ($21.5M) of the top 5% of prescribers recorded an 83.23% brand drug prescribing rate.
+- Fact 11: Hematology oncology with the highest total cpc value ($21.5M) of the top 5% of prescribers recorded an 83.23% brand drug prescribing rate.
 
 - Inference: a high brand prescribing rate may be a culprit in high cpc figures. However, further investigation is required to ascertain the cause.
 
