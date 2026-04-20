@@ -80,10 +80,12 @@ COST CONCENTRATION INSIGHTS (who is driving high cpc?)
 ![images/top_five_tiers_3&4.png](images/top_five_tiers_3&4.png)
 
 
-- Fact 6: The top 5% of prescribers by cpc contributed approximately 50% of the total cpc
-  
+- Fact 6: The top 5% of prescribers by cpc contributed approximately 50% of the total cpc 
 - Inference: most of the CMS claims expenditure is directed towards a few prescribers
-- USE THE TOP 5% VISUAL
+
+![images/top_five_pct.png](images/top_five_pct.png)
+
+
 
 - Fact 4: Tiers 3 & 4 prescribers collectively account for $138m of the $257m in total cpc values representing 53.7% of total cpc
 
