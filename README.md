@@ -52,7 +52,11 @@ STATISTICAL INSIGHTS (what do the numbers tell us about the data?)
 - Fact 3: the average cpc value of $185.13 is more than double the median cpc of $71.43. In other words, a small number of high cpc values have inflated the average cpc and are pulling it upwards and away from the median.
 - Inference: the average cpc is misleading because it is not a true representation of a typical cpc value.
 
-  
+![images/avg_cpc.png](images/avg_cpc.png)
+
+
+
+ 
 - Fact 4: the standard deviation (tells us how far apart each data point is from the average) cpc value of $797.10 is greater than the cpc value of the top 5% of prescribers ($610). 
 - Inference: the variance between the standard deviation and the average is driven largely by prescribers in the top 5% based on cpc. The data is not behaving normally, is extremely skewed and likely has high-end ouliers. Therefore, the standard deviation in this case will be a poor tool for predictive analysis of future cpc outcomes. 
 - Fact 5: the outlier cpc value is $333.31 and most cpc values in the data are well above the outlier cpc.
