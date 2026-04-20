@@ -50,7 +50,10 @@ Analysis Queries ![Queries](sql/04_cost_per_claim_queries.sql)
 •	top 5% of prescribers and the % contribution of their brand, generic, and other drug costs to their cpc
 
 
-Export to Power BI
+DASHBOARD AND REPORT LINK
+- The Power BI dashboard can be found at https://app.powerbi.com/groups/me/dashboards/4269d628-0fbf-4f02-944e-d01237268b26?experience=power-bi
+
+•	The Power BI report can be found at https://app.powerbi.com/groups/me/reports/c35d9d7f-a391-4dbf-969d-1683c2738344/97bd24a7defe58ea664c?experience=power-bi
 
 
 
