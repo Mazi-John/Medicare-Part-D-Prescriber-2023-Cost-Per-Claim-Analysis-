@@ -38,7 +38,7 @@ STATISTICAL INSIGHTS (what do the numbers tell us about the data?)
 - Fact 1: the median (50% percentile) cpc value is $71.43,
 - Inference: at least half (684,217) of the prescribers in the program have a cpc value that is less than or equal to $71.43
 
-![images/50th_pctile.png](images/50th_pctile.png)
+![images/median_cpc.png](images/median_cpc.png)
 
 
 
