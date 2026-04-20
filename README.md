@@ -37,7 +37,12 @@ Tiers 3 & 4 are the high & very-high prescribers respectively and collectively a
 STATISTICAL INSIGHTS (what do the numbers tell us about the data?)
 - Fact 1: the median (50% percentile) cpc value is $71.43,
 - Inference: at least half (684,217) of the prescribers in the program have a cpc value that is less than or equal to $71.43
-- USE THE 50% PCTILE IMAGE
+
+![Cost per claim dashboard](images/dashboard.png)
+
+
+
+
 - Fact 2: 865,012 prescribers are tier 1, therefore, have cpc values that are less than or equal to 100
 - Inference: a vast majority of prescribers in the program are low ticket prescribers (<$100 cpc) and exert the least financial impact on overall claims expenditure.
 - USE THE TIER 1 IMAGE
