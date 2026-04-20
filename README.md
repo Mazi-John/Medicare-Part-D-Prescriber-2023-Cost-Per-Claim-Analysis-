@@ -88,8 +88,9 @@ COST CONCENTRATION INSIGHTS (who is driving high cpc?)
 
 
 - Fact 4: Tiers 3 & 4 prescribers collectively account for $138m of the $257m in total cpc values representing 53.7% of total cpc
-
 - Inference: measures that reduce the combined cpc of tiers 3 & 4 prescribers by a quarter or half will save the program $34.5m or $69m in total cpc respectively. 
+
+![images/tiers_3&4_138m.png](images/tiers_3&4_138m.png)
 
 USE THE 3&4 57.7%
 - Fact 5: Tier 3 & 4 prescribers are a combined 76,000 in number (i.e., 6.3% of the prescribers in the dataset) and account for 53.7% of the total cpc
