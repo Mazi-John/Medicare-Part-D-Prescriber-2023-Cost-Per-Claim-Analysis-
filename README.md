@@ -77,7 +77,7 @@ COST CONCENTRATION INSIGHTS (who is driving high cpc?)
 - Fact 6: The top 5% of prescribers are all in cost tiers 3 & 4
 - Inference: A focus on tiers 3 & 4 prescribers for targeted cost management will likely see dividends in reduced claim expenditure.
 
-![images/top_five_tiers_3&4.png](images/top_five_tiers_3&4.png)
+![images/top_five_tiers_3&4.png](images/top_five_tiers_3&4.png)https://app.powerbi.com/groups/me/reports/c35d9d7f-a391-4dbf-969d-1683c2738344/5def07cbaa3d8930874f?experience=power-bi
 
 
 - Fact 7: The top 5% of prescribers by cpc claimed approximately 50% of the total cpc.
