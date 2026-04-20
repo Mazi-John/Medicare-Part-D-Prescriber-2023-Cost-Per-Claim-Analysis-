@@ -120,10 +120,6 @@ COST CONCENTRATION INSIGHTS (who is driving high cpc?)
 
 
 
-•	The Power BI dashboard can be found at https://app.powerbi.com/groups/me/dashboards/4269d628-0fbf-4f02-944e-d01237268b26?experience=power-bi
-
-•	The Power BI report can be found at https://app.powerbi.com/groups/me/reports/c35d9d7f-a391-4dbf-969d-1683c2738344/97bd24a7defe58ea664c?experience=power-bi
-
 
 
 
