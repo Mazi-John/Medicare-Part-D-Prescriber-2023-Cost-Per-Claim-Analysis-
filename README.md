@@ -58,7 +58,12 @@ STATISTICAL INSIGHTS (what do the numbers tell us about the data?)
 
  
 - Fact 4: the standard deviation (tells us how far apart each data point is from the average) cpc value of $797.10 is greater than the cpc value of the top 5% of prescribers ($610). 
-- Inference: the variance between the standard deviation and the average is driven largely by prescribers in the top 5% based on cpc. The data is not behaving normally, is extremely skewed and likely has high-end ouliers. Therefore, the standard deviation in this case will be a poor tool for predictive analysis of future cpc outcomes. 
+- Inference: the variance between the standard deviation and the average is driven largely by prescribers in the top 5% based on cpc. The data is not behaving normally, is extremely skewed and likely has high-end ouliers. Therefore, the standard deviation in this case will be a poor tool for predictive analysis of future cpc outcomes.
+
+![images/std_dev_vs_top_5%.png](images/std_dev_vs_top_5%.png)
+
+
+
 - Fact 5: the outlier cpc value is $333.31 and most cpc values in the data are well above the outlier cpc.
 - Inference: outlier cpc values are responsible for an elevated average cpc
 - USE THE OUTLIER VISUAL
