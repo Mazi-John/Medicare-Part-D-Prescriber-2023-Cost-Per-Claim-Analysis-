@@ -3,7 +3,7 @@
 This is a cost-per-claim (cpc) analysis of the Medicare Part D 2023 claims data that aims to uncover high-cost claimants, discover high-cost prescribing patterns and assign a cost-tier system for the development of cost management strategies.
 
 ## BUSINESS CONTEXT
-The Centres for Medicare & Medicaid Services (CMS) provides health coverage to more than 100 million people through Medicare, medicaid, the Children's Health Insurance Program, and the Health Insurance marketplace. CMS seeks to strengthen and modernize the Nation's health care system, to provide access to high quality care and improved health at lower costs. The insights from this analysis will be used by Part D program's claims managers and finance executives to develop targeted intervention for high-tier claims, optimise capital allocation and implement cost-saving measures. The following business questions represent the focus of the analysis:
+The Centres for Medicare & Medicaid Services (CMS) provides health coverage to more than 100 million people through Medicare, medicaid, the Children's Health Insurance Program, and the Health Insurance marketplace. CMS seeks to strengthen and modernize the Nation's health care system, to provide access to high quality care and improved health at lower costs. The insights from this analysis will be used by the Part D program's claims managers and finance executives to understand and develop targeted intervention for high-tier claims, optimise capital allocation and implement cost-saving measures. The following business questions represent the focus of the analysis:
 
 •	what proportion of prescribers are responsible for most of the total cost per claim spending?
 
@@ -14,7 +14,7 @@ The Centres for Medicare & Medicaid Services (CMS) provides health coverage to m
 •	what is the brand/generic prescribing rate of specialties in the top 5% of the cost per claim metric?
 
 
-## DATA SOURCE AND STRUCTURE
+## DATA STRUCTURE & DETAIL
 The CMS Part D 2023 dataset consists of a table of 1,380,665 rows and 85 columns of claims data aggregated by prescriber npi. In other words, each represents a prescriber with a unique prescriber npi. A detailed data processing documentation is provided in this [data_processing_walkthrough](data_processing_walkthrough.md) link.
 
 
