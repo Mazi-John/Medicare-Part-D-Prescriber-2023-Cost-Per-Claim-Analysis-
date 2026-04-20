@@ -106,11 +106,11 @@ COST CONCENTRATION INSIGHTS (who is driving high cpc?)
 
 ## RECOMMENDATION
 
-1. Set up modalities that reduce the cpc values of tiers 3 & 4 precribers by 50% to yield a $69m savings in total cpc.
+1. Create modalities that reduce the cpc values of tiers 3 & 4 precribers by 50% to yield a $69m savings in total cpc.
 
-2. Audit Tier 3 & 4 prescribers to uncover possible fraud, educational purposes and formulary control.
+2. Audit Tier 3 & 4 prescribers for formulary control, to uncover possible fraud and for educational purposes.
 
-3. Offer formulary adherence support to prescribers with low generic dispensing rate but high cost per claim.
+3. Offer formulary adherence support to prescribers with low generic dispensing rate and high cost per claim.
   
 4. Provide preferred alternatives to brand drugs to improve generic prescribing patterns.
 
