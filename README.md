@@ -83,7 +83,7 @@ COST CONCENTRATION INSIGHTS (who is driving high cpc?)
 - Fact 7: The top 5% of prescribers by cpc claimed approximately 50% of the total cpc.
 - Inference: most of the CMS claims expenditure is driven by a few prescribers.
 
-![images/top_five_pct.png](images/top_five_pct.png)
+[![images/top_five_pct.png](images/top_five_pct.png)](https://app.powerbi.com/groups/me/reports/c35d9d7f-a391-4dbf-969d-1683c2738344/dbd3ddfb0c485b87030b?experience=power-bi)
 
 
 
