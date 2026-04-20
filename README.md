@@ -38,14 +38,17 @@ STATISTICAL INSIGHTS (what do the numbers tell us about the data?)
 - Fact 1: the median (50% percentile) cpc value is $71.43,
 - Inference: at least half (684,217) of the prescribers in the program have a cpc value that is less than or equal to $71.43
 
+
 ![images/median_cpc.png](images/median_cpc.png)
-
-
 
 
 - Fact 2: 865,012 prescribers are tier 1, therefore, have cpc values that are less than or equal to 100
 - Inference: a vast majority of prescribers in the program are low ticket prescribers (<$100 cpc) and exert the least financial impact on overall claims expenditure.
-- USE THE TIER 1 IMAGE
+
+![images/tier_1.png](images/tier_1.png)
+
+
+
 - Fact 3: the average cpc value of $185.13 is more than double the median cpc of $71.43. In other words, a small number of high cpc values have inflated the average cpc and are pulling it upwards and away from the median.
 - Inference: the average cpc is misleading because it is not a true representation of a typical cpc value.
 
