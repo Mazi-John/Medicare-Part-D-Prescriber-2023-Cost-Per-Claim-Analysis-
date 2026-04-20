@@ -27,21 +27,22 @@ DASHBOARD PREVIEW
 
 ## EXECUTIVE SUMMARY
 
-Tiers 3 & 4 are the high & very-high prescribers respectively and collectively account for $138m of the $257m in total cpc values representing 53.7% of total cpc. They also make up 6.3% (i.e., 86,000) of the approximately 1.38 million prescribers in the program. the top 5% of prescribers account for 50% of total cpc values. Prescribers in the top 5% recorded an average brand drug prescribing rate of over 90%. The allergy/immunology specialty recorded the highest cpc value of approximately $356,000 in one claim while the hematology Oncology specialty recorded the highest total cpc of all the specialties at $21.5m.
+Tiers 3 & 4 are the 'high' & 'very-high' cpc prescribers respectively and they collectively account for $138m of the $257m in total cpc values which represent 53.7% of total cpc. They also make up 6.3% (i.e., 86,000) of over 1.38 million prescribers in the program. The top 5% of prescribers account for approximately 50% of total cpc values. Furthermore, prescribers in the top 5% recorded an average brand drug prescribing rate of over 90%. The allergy/immunology specialty recorded the highest cpc value of approximately $356,000 in one claim while the hematology Oncology specialty recorded the highest total cpc of all the specialties at $21.5m.
 
 
 ## INSIGHTS DETAIL
 
 
 STATISTICAL INSIGHTS (what do the numbers tell us about the data?)
-- Fact 1: the median (50% percentile) cpc value is $71.43,
-- Inference: at least half (684,217) of the prescribers in the program have a cpc value that is less than or equal to $71.43
+
+- Fact 1: the median (50% percentile) cpc value is $71.43.
+- Inference: at least half (684,217) of the prescribers in the program have a cpc value that is less than or equal to $71.43.
 
 
 ![images/median_cpc.png](images/median_cpc.png)
 
 
-- Fact 2: 865,012 prescribers are tier 1, therefore, have cpc values that are less than or equal to 100
+- Fact 2: 865,012 prescribers are tier 1, therefore, have cpc values that are less than or equal to $100.
 - Inference: a vast majority of prescribers in the program are low ticket prescribers (<$100 cpc) and exert the least financial impact on overall claims expenditure.
 
 ![images/tier_1.png](images/tier_1.png)
@@ -51,6 +52,7 @@ STATISTICAL INSIGHTS (what do the numbers tell us about the data?)
 - Fact 3: the average cpc value of $185.13 is more than double the median cpc of $71.43. In other words, a small number of high cpc values have inflated the average cpc and are pulling it upwards and away from the median.
 - Inference: the average cpc is misleading because it is not a true representation of a typical cpc value.
 
+![images/avg_cpc.png](images/avg_cpc.png)
 ![images/avg_cpc.png](images/avg_cpc.png)
 
 
