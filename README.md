@@ -116,7 +116,7 @@ COST CONCENTRATION INSIGHTS (who is driving high cpc?)
   
 4. Provide preferred alternatives to brand drugs to improve generic prescribing patterns.
 
-5. institute and implement policy changes that aim to shift the prescribing pattern of tiers 3 and 4 prescribers to that of cost tiers 1 and 2.
+5. Implement policy changes that aim to shift the prescribing pattern of tiers 3 and 4 prescribers to that of cost tiers 1 and 2.
 
 
 
