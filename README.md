@@ -106,7 +106,7 @@ COST CONCENTRATION INSIGHTS (who is driving high cpc?)
 
 
 
-## RECOMMENDATION
+## RECOMMENDATIONS
 
 1. Create modalities that reduce the cpc values of tiers 3 & 4 precribers by 50% to yield a $69m savings in total cpc.
 
