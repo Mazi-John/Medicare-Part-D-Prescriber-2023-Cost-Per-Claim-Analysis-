@@ -7,6 +7,7 @@ DATA DOWNLOAD
 •	File Format: CSV, Size:631MB
 
 
+
 DATABASE SET-UP:- Using SQL Shell (psql) and Beekeeper (GUI) graphical user interface
 
 •	Copied column names (84 columns) and their data type to a notepad
@@ -23,7 +24,7 @@ DATABASE SET-UP:- Using SQL Shell (psql) and Beekeeper (GUI) graphical user inte
 This showed a record count of 1,380,665, indicating that the data was successfully imported into the table on SQL Shell without errors.
 
 
-Data Cleaning & Validation
+DATA CLEANING & VALIDATION
 
 •	Changed the prescriber NPI column data type from TEXT to BIGINT data type 
 
