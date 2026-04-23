@@ -38,7 +38,7 @@ This enables easier validation, modular analysis, indexing, performance, and joi
 
 •	Conducted data validation on the tables
 
-Analysis Queries ![Queries](sql/04_cost_per_claim_queries.sql)
+ANALYSIS QUERIES ![Queries](sql/04_cost_per_claim_queries.sql)
 
 •	summary statistics for cost per claim (cpc) for Part D 2023 data
 
