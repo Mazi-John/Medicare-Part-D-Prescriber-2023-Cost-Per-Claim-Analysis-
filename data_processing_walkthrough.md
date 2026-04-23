@@ -7,7 +7,7 @@ DATA DOWNLOAD
 •	File Format: CSV, Size:631MB
 
 
-Database Setup: Using SQL Shell (psql) and Beekeeper (GUI) graphical user interface
+DATABASE SET-UP:- Using SQL Shell (psql) and Beekeeper (GUI) graphical user interface
 
 •	Copied column names (84 columns) and their data type to a notepad
 
