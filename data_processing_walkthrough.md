@@ -8,7 +8,7 @@
 
 
 
-### DATABASE SET-UP:- Using SQL Shell (psql) and Beekeeper (GUI) graphical user interface
+## DATABASE SET-UP:- Using SQL Shell (psql) and Beekeeper (GUI) graphical user interface
 
 •	Copied column names (84 columns) and their data type to a notepad
 
@@ -24,13 +24,11 @@
 This showed a record count of 1,380,665, indicating that the data was successfully imported into the table on SQL Shell without errors.
 
 
-DATA CLEANING & VALIDATION
+## DATA CLEANING & VALIDATION
 
 •	Changed the prescriber NPI column data type from TEXT to BIGINT data type 
 
 •	Created a cleaned table, part_d_2023 from part_d_2023_raw ![Cleaning Script](sql/02_clean_table.sql)
-
-
 
 •	Created seven smaller tables from the part_d_2023 into meaningful entities and relationships namely: prescriber, prescriber_location, drug_summary, demographics, opioids_antibiotics_psychs, plan_summary, suppression_flags and brand_gene_other_drug using the CREATE TABLE command. ![Table Normalization](sql/03_table_normalization.sql)
 
@@ -51,7 +49,7 @@ Analysis Queries ![Queries](sql/04_cost_per_claim_queries.sql)
 •	top 5% of prescribers and the % contribution of their brand, generic, and other drug costs to their cpc
 
 
-DASHBOARD AND REPORT LINK
+## DASHBOARD AND REPORT LINK
 - The Power BI dashboard can be found at https://app.powerbi.com/groups/me/dashboards/4269d628-0fbf-4f02-944e-d01237268b26?experience=power-bi
 
 •	The Power BI report can be found at https://app.powerbi.com/groups/me/reports/c35d9d7f-a391-4dbf-969d-1683c2738344/97bd24a7defe58ea664c?experience=power-bi
